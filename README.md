@@ -1,5 +1,5 @@
 # Viruscheck
-This is a scipt to automatically upload selected files in a folder to VirusTotal and return a result
+This is a script to automatically upload selected files in a folder to VirusTotal and return a result
 
 ## Options
 ### API Key:
@@ -10,7 +10,7 @@ This is required to use VirusTotal's API
 ### Directory:
 Usage: -d, --directory /path/to/files/ (C:\path\to\files on Windows)
 
-This defaults to the current user's Downloads directory (highly recommened to set if you don't want your downloads uploaded to VT)
+This defaults to the current user's Downloads directory (highly recommended to set if you don't want your downloads uploaded to VT)
 
 Default Linux Path: ~/Downloads/
 
